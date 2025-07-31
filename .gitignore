@@ -1,0 +1,4 @@
+# 🌫️ Hide environment variables
+.env
+.env.*
+node_modules
